@@ -1,0 +1,136 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Python Sidebar
+  product: Python
+  version: v1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Hello Python
+    output: web, pdf
+    folderitems:
+    - title: Product 1 home
+      url: /p1_landing_page.html
+      output: web
+
+    - title: Introduction
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: When to use Python
+      url: /p2_sample1.html
+      output: web, pdf
+
+    - title: The Python interface
+      url: /p1_sample3.html
+      output: web, pdf
+
+    - title: Python as calculator
+      url: /p1_sample3.html
+      output: web, pdf
+
+    - title: Print statement
+      url: /p1_sample3.html
+      output: web, pdf
+
+    - title: Comments in Python
+      url: /p1_sample3.html
+      output: web, pdf
+
+    - title: Variables and Types
+      url: /p1_sample3.html
+      output: web, pdf
+
+    - title: Variable Assignment and namespaces
+      url: /p1_sample3.html
+      output: web, pdf
+
+  - title: Python Data Structures
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+    - title: Dictionaries
+      url: /p1_sample5.html
+      output: web, pdf
+
+    - title: Tuples
+      url: /p1_sample6.html
+      output: web, pdf
+
+    - title: Set
+      url: /p1_sample7.html
+      output: web, pdf
+
+  - title: Python Toolbox
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Functions
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: OOP Concepts
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Numpy
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Pandas
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Matplotlib
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf
+
+  - title: Statistics in Python
+    output: web, pdf
+
+    folderitems:
+    - title: Lists
+      url: /p1_sample4.html
+      output: web, pdf

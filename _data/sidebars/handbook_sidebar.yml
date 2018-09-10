@@ -1,0 +1,164 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+
+entries:
+- title: Handbook Sidebar
+  product: Handbook
+  version: v1.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Volume I Statistics
+    output: web, pdf
+    folderitems:
+    - title: Statistics
+      url: /py_landing_page.html
+      output: web
+
+    - title: Sample 1
+      url: /p1_sample1.html
+      output: web, pdf
+
+    - title: Sample 2
+      url: /p1_sample2.html
+      output: web, pdf
+
+    - title: Sample 3
+      url: /p1_sample3.html
+      output: web, pdf
+
+  - title: Volume II Econometrics
+    output: web, pdf
+
+    folderitems:
+    - title: Econometrics
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Time Series
+      url: /p1_sample5.html
+      output: web, pdf
+
+  - title: Volume III Python Programming
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Python Toolbox
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Functions
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: OOP Concepts
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Numpy
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Pandas
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Matplotlib
+      url: /py_intro.html
+      output: web, pdf
+
+    - title: Statistics in Python
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume IV Market Microstructure
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume V Options
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume VI Trading Strategies
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume VII Back-testing Platforms
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume VIII Risk Management
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
+
+  - title: Volume IX Machine Learning
+    output: web, pdf
+
+    folderitems:
+    - title: Hello Python
+      url: /py_landing_page.html
+      output: web, pdf
+
+    - title: Data structures
+      url: /py_intro.html
+      output: web, pdf
